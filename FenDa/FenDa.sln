@@ -1,0 +1,112 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "..\code\webqq\FenDa\BLL\BLL.csproj", "{50029A36-256E-4FDA-AC6B-4193236FC56F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "..\code\webqq\FenDa\DAL\DAL.csproj", "{8607822C-CCC9-4095-A175-F1AD5E07ED57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\code\webqq\FenDa\Model\Model.csproj", "{1BE24AA6-5ADE-4BA2-A627-CC0C21581BFC}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "wap(5)", "http://localhost:52248", "{AE8B4E1C-0620-4CE8-BE3B-74EC8188F892}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = "SAK"
+		SccAuxPath = "SAK"
+		SccLocalPath = "SAK"
+		SccProvider = "SAK"
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{50029a36-256e-4fda-ac6b-4193236fc56f}|BLL.dll;{8607822C-CCC9-4095-A175-F1AD5E07ED57}|DAL.dll;{1BE24AA6-5ADE-4BA2-A627-CC0C21581BFC}|Model.dll;{47ef2c7e-6c40-4bec-bfbb-df8299c66e96}|Jnwf.BLL.dll;{535c596a-294e-43f2-b8d8-64bfa6495ae5}|Jnwf.Model.dll;{477CF94E-F377-4B9A-A961-24AF18D2197A}|Jnwf.DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52248"
+		Debug.AspNetCompiler.PhysicalPath = "wap\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52248\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52248"
+		Release.AspNetCompiler.PhysicalPath = "wap\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52248\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "wap\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jnwf.Model", "Jnwf.Model\Jnwf.Model.csproj", "{535C596A-294E-43F2-B8D8-64BFA6495AE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jnwf.DAL", "Jnwf.DAL\Jnwf.DAL.csproj", "{477CF94E-F377-4B9A-A961-24AF18D2197A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jnwf.BLL", "Jnwf.BLL\Jnwf.BLL.csproj", "{47EF2C7E-6C40-4BEC-BFBB-DF8299C66E96}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 8
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://120.27.105.138:8080/tfs/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ..\\code\\webqq\\FenDa\\BLL\\BLL.csproj
+		SccProjectName1 = ../code/webqq/FenDa/BLL
+		SccLocalPath1 = ..\\code\\webqq\\FenDa\\BLL
+		SccProjectUniqueName2 = ..\\code\\webqq\\FenDa\\DAL\\DAL.csproj
+		SccProjectName2 = ../code/webqq/FenDa/DAL
+		SccLocalPath2 = ..\\code\\webqq\\FenDa\\DAL
+		SccProjectUniqueName3 = ..\\code\\webqq\\FenDa\\Model\\Model.csproj
+		SccProjectName3 = ../code/webqq/FenDa/Model
+		SccLocalPath3 = ..\\code\\webqq\\FenDa\\Model
+		SccProjectUniqueName4 = Jnwf.BLL\\Jnwf.BLL.csproj
+		SccProjectName4 = Jnwf.BLL
+		SccLocalPath4 = Jnwf.BLL
+		SccProjectUniqueName5 = Jnwf.DAL\\Jnwf.DAL.csproj
+		SccProjectName5 = Jnwf.DAL
+		SccLocalPath5 = Jnwf.DAL
+		SccProjectUniqueName6 = Jnwf.Model\\Jnwf.Model.csproj
+		SccProjectName6 = Jnwf.Model
+		SccLocalPath6 = Jnwf.Model
+		SccWebProject7 = true
+		SccProjectUniqueName7 = http://localhost:52248
+		SccProjectName7 = wap
+		SccLocalPath7 = wap
+		SccProjectEnlistmentChoice7 = 2
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50029A36-256E-4FDA-AC6B-4193236FC56F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50029A36-256E-4FDA-AC6B-4193236FC56F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50029A36-256E-4FDA-AC6B-4193236FC56F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50029A36-256E-4FDA-AC6B-4193236FC56F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8607822C-CCC9-4095-A175-F1AD5E07ED57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8607822C-CCC9-4095-A175-F1AD5E07ED57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8607822C-CCC9-4095-A175-F1AD5E07ED57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8607822C-CCC9-4095-A175-F1AD5E07ED57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE24AA6-5ADE-4BA2-A627-CC0C21581BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE24AA6-5ADE-4BA2-A627-CC0C21581BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE24AA6-5ADE-4BA2-A627-CC0C21581BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE24AA6-5ADE-4BA2-A627-CC0C21581BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8B4E1C-0620-4CE8-BE3B-74EC8188F892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8B4E1C-0620-4CE8-BE3B-74EC8188F892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8B4E1C-0620-4CE8-BE3B-74EC8188F892}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8B4E1C-0620-4CE8-BE3B-74EC8188F892}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{535C596A-294E-43F2-B8D8-64BFA6495AE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{535C596A-294E-43F2-B8D8-64BFA6495AE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{535C596A-294E-43F2-B8D8-64BFA6495AE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{535C596A-294E-43F2-B8D8-64BFA6495AE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477CF94E-F377-4B9A-A961-24AF18D2197A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477CF94E-F377-4B9A-A961-24AF18D2197A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477CF94E-F377-4B9A-A961-24AF18D2197A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477CF94E-F377-4B9A-A961-24AF18D2197A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47EF2C7E-6C40-4BEC-BFBB-DF8299C66E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47EF2C7E-6C40-4BEC-BFBB-DF8299C66E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47EF2C7E-6C40-4BEC-BFBB-DF8299C66E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47EF2C7E-6C40-4BEC-BFBB-DF8299C66E96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
