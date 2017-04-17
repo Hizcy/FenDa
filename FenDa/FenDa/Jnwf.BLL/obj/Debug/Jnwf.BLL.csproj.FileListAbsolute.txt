@@ -1,0 +1,15 @@
+F:\FenDa\Jnwf.BLL\obj\Debug\Jnwf.BLL.csprojResolveAssemblyReference.cache
+F:\FenDa\Jnwf.BLL\bin\Debug\Jnwf.BLL.dll
+F:\FenDa\Jnwf.BLL\bin\Debug\Jnwf.BLL.pdb
+F:\FenDa\Jnwf.BLL\bin\Debug\Jnwf.DAL.dll
+F:\FenDa\Jnwf.BLL\bin\Debug\Jnwf.Model.dll
+F:\FenDa\Jnwf.BLL\bin\Debug\Utils.dll
+F:\FenDa\Jnwf.BLL\bin\Debug\log4net.dll
+F:\FenDa\Jnwf.BLL\bin\Debug\Memcached.ClientLibrary.dll
+F:\FenDa\Jnwf.BLL\bin\Debug\Newtonsoft.Json.Net35.dll
+F:\FenDa\Jnwf.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\FenDa\Jnwf.BLL\bin\Debug\Jnwf.DAL.pdb
+F:\FenDa\Jnwf.BLL\bin\Debug\Jnwf.Model.pdb
+F:\FenDa\Jnwf.BLL\bin\Debug\Utils.pdb
+F:\FenDa\Jnwf.BLL\obj\Debug\Jnwf.BLL.dll
+F:\FenDa\Jnwf.BLL\obj\Debug\Jnwf.BLL.pdb
