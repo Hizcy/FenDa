@@ -1,5 +1,0 @@
-F:\FenDa\Jnwf.Model\bin\Debug\Jnwf.Model.dll
-F:\FenDa\Jnwf.Model\bin\Debug\Jnwf.Model.pdb
-F:\FenDa\Jnwf.Model\obj\Debug\Jnwf.Model.dll
-F:\FenDa\Jnwf.Model\obj\Debug\Jnwf.Model.pdb
-F:\FenDa\Jnwf.Model\obj\Debug\Jnwf.Model.csprojResolveAssemblyReference.cache
